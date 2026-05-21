@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"9f6035a25649243d","type":"file","file":"Continentes/Callisto/Ciudades/Ferkab/Ferkab.md","x":-1720,"y":-1000,"width":820,"height":680},
+		{"id":"da8da44fe8e54f5a","type":"file","file":"imagenes/ferkab CIudad idea 1.jpg","x":-1665,"y":103,"width":710,"height":710},
+		{"id":"a74c58d0720db9c1","type":"file","file":"Continentes/Callisto/Ciudades/Ferkab/Distritos.md","x":-680,"y":-980,"width":880,"height":640},
+		{"id":"a02a39bea144e871","type":"file","file":"imagenes/Distribucion.png","x":-759,"y":103,"width":1039,"height":485}
+	],
+	"edges":[
+		{"id":"fedc72e5f222dce8","fromNode":"9f6035a25649243d","fromSide":"right","toNode":"a74c58d0720db9c1","toSide":"left"},
+		{"id":"a3879f76534876f6","fromNode":"9f6035a25649243d","fromSide":"bottom","toNode":"da8da44fe8e54f5a","toSide":"top"},
+		{"id":"2d99ea93cee1e319","fromNode":"a74c58d0720db9c1","fromSide":"bottom","toNode":"a02a39bea144e871","toSide":"top"}
+	]
+}
